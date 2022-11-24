@@ -2,3 +2,4 @@
 Buraya ikinci kez veri giriyorum.
 erol branci ekledim
 evren branchı
+yeni ekelemeler
